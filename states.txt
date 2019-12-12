@@ -4,3 +4,6 @@ istanbul
 izmir
 gazantep
 adiyaman
+hamsi
+tava
+kalamar
