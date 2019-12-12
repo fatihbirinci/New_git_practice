@@ -2,3 +2,5 @@ of
 izmit
 istanbul
 izmir
+gazantep
+adiyaman
